@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    background-color: beige;
+}
+h1{
+    padding: 40px;
+    background-color: lightblue;
+}
+h1 {
+    text-align:left;
+    font-size:xx-large;
+    color:black;
+}
+h2{
+    padding: 10px;
+    background-color: aqua;
+}
+h2,h3{
+    text-align:left;
+}
+#maps{
+    text-align: center;
+}

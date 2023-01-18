@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header h1 {
+    text-align: center;
+    font-size:xx-large;
+    color:black;
+}
+header{
+    padding: 40px;
+    background-color: lightblue;
+}
+nav{
+    background-color: rgb(142, 177, 188);
+    overflow: hidden;
+}
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color:black;
+}
+
+main {
+    background-color: white;
+    float:none;
+}
+.course {
+    background-color: rgb(142, 177, 188);
+    overflow: hidden;
+}
+.course{
+    text-decoration: none;
+    text-align: right;
+    padding: 20px;
+    text-align: left;
+    color: black;
+}
+section h4{
+    text-decoration: none;
+    padding: 5px;
+    text-align: left;
+    color: rgb(71, 64, 64); 
+}
+section h2{
+    font:bold;
+    padding: 20px;
+    color: black;
+}
+.schools {
+    background-color: rgb(142, 177, 188);
+    overflow: hidden;
+}
+.schools{
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    text-align: left;
+    color: black;
+}
+.abt{
+    float:none;
+    text-align: center;
+}
+footer {
+    background-color:rgb(83, 111, 135);
+    overflow: hidden;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: black;
+}
